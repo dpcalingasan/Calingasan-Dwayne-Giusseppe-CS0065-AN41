@@ -6,7 +6,7 @@ This repository contains the required output for Machine Problem 1. The project 
 - `DemoEarlyWarningTool.knwf` - exported KNIME workflow
 - `student_performance_knime.csv` - dataset used by the workflow
 - `20231000689_MachineProblem1.pdf` - screenshot evidence
-- `KNIME_project_Calingasan.knwf` - file
+- `KNIME_project_Calingasan.knwf` - KNIME project file
 
 ## Algorithms
 - Decision Tree
